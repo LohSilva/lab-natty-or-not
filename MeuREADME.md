@@ -20,3 +20,6 @@ Este e-book explora como a Inteligência Artificial está revolucionando a acess
 
 O processo de criação do e-book foi incrivelmente gratificante. Explorar diversas ferramentas foi não apenas divertido, mas também enriquecedor, pois me permitiu absorver conhecimento sobre inovações que buscam promover a inclusão em nossa sociedade. 
 Estou satisfeita com o resultado alcançado e animada para compartilhar essas descobertas, concluindo com sucesso este projeto.
+
+
+[Clique para ver o resultado!](https://github.com/LohSilva/lab-natty-or-not/blob/main/IA_Acessibilidade.pdf)
